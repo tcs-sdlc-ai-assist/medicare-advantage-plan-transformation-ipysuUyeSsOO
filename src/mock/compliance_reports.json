@@ -1,0 +1,72 @@
+[
+  {
+    "id": "R001",
+    "memberId": "M001",
+    "title": "Annual Wellness Visit",
+    "date": "2023-01-15",
+    "summary": "Routine checkup, all vitals normal.",
+    "submittedBy": "J*** D***",
+    "status": "Submitted",
+    "compliance": "Compliant"
+  },
+  {
+    "id": "R002",
+    "memberId": "M001",
+    "title": "Cardiology Consultation",
+    "date": "2023-03-22",
+    "summary": "EKG normal, no issues found.",
+    "submittedBy": "J*** D***",
+    "status": "Submitted",
+    "compliance": "Compliant"
+  },
+  {
+    "id": "R003",
+    "memberId": "M002",
+    "title": "Dermatology Exam",
+    "date": "2023-02-10",
+    "summary": "Skin check, no abnormalities.",
+    "submittedBy": "J*** S****",
+    "status": "Submitted",
+    "compliance": "Compliant"
+  },
+  {
+    "id": "R004",
+    "memberId": "M003",
+    "title": "Primary Care Visit",
+    "date": "2022-12-05",
+    "summary": "Blood pressure elevated, follow-up recommended.",
+    "submittedBy": "R***** L**",
+    "status": "Submitted",
+    "compliance": "Compliant"
+  },
+  {
+    "id": "R005",
+    "memberId": "M001",
+    "title": "CMS Q2 Submission",
+    "date": "2024-06-02",
+    "summary": "Quarterly CMS report submitted.",
+    "submittedBy": "J*** D***",
+    "status": "Pending",
+    "compliance": "Pending"
+  },
+  {
+    "id": "R006",
+    "memberId": "M002",
+    "title": "HIPAA Privacy Check",
+    "date": "2024-06-03",
+    "summary": "No violations detected in member data.",
+    "submittedBy": "System",
+    "status": "Completed",
+    "compliance": "Compliant"
+  },
+  {
+    "id": "R007",
+    "memberId": "M003",
+    "title": "Audit Log Export",
+    "date": "2024-05-29",
+    "summary": "Exported audit log for review.",
+    "submittedBy": "P**** P****",
+    "status": "Completed",
+    "compliance": "Compliant"
+  }
+]

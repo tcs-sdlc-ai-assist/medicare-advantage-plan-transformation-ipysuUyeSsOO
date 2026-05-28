@@ -1,0 +1,89 @@
+[
+  {
+    "badges": [
+      {
+        "id": 1,
+        "name": "Wellness Champion",
+        "description": "Completed annual wellness visit.",
+        "icon": "🏆",
+        "earned": true
+      },
+      {
+        "id": 2,
+        "name": "Engagement Star",
+        "description": "Posted 5 times in the community feed.",
+        "icon": "⭐",
+        "earned": false
+      },
+      {
+        "id": 3,
+        "name": "Care Team Collaborator",
+        "description": "Assigned a provider to your care team.",
+        "icon": "🤝",
+        "earned": true
+      },
+      {
+        "id": 4,
+        "name": "Prescription Pro",
+        "description": "Refilled a prescription on time.",
+        "icon": "💊",
+        "earned": false
+      }
+    ],
+    "rewards": [
+      {
+        "id": 1,
+        "name": "Gift Card",
+        "description": "$10 gift card for completing wellness visit.",
+        "points": 100,
+        "claimed": true
+      },
+      {
+        "id": 2,
+        "name": "Fitness Tracker",
+        "description": "Earn a fitness tracker for 500 points.",
+        "points": 500,
+        "claimed": false
+      },
+      {
+        "id": 3,
+        "name": "Healthy Meal Kit",
+        "description": "Redeem for a meal kit at 300 points.",
+        "points": 300,
+        "claimed": false
+      }
+    ],
+    "leaderboard": [
+      {
+        "rank": 1,
+        "name": "J*** S****",
+        "points": 620,
+        "isCurrentUser": false
+      },
+      {
+        "rank": 2,
+        "name": "J*** D***",
+        "points": 580,
+        "isCurrentUser": false
+      },
+      {
+        "rank": 3,
+        "name": "R***** L**",
+        "points": 470,
+        "isCurrentUser": false
+      },
+      {
+        "rank": 4,
+        "name": "Y**",
+        "points": 350,
+        "isCurrentUser": true
+      },
+      {
+        "rank": 5,
+        "name": "P**** P****",
+        "points": 320,
+        "isCurrentUser": false
+      }
+    ]
+  }
+]

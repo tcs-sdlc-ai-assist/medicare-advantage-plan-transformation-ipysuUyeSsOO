@@ -1,0 +1,198 @@
+[
+  {
+    "memberId": "M001",
+    "demographics": {
+      "name": "J*** D***",
+      "email": "j*****@example.com",
+      "phone": "***-***-4567",
+      "ssn": "***-**-6789",
+      "address": "*****, Springfield, IL",
+      "dob": "****/**/1970",
+      "plan": "Plan A",
+      "status": "Active"
+    },
+    "claims": [
+      {
+        "id": "C001",
+        "date": "2024-05-15",
+        "provider": "Dr. A**** S****",
+        "type": "Office Visit",
+        "amount": "$120",
+        "status": "Processed",
+        "diagnosis": "Routine checkup"
+      },
+      {
+        "id": "C002",
+        "date": "2024-04-28",
+        "provider": "Dr. B**** L**",
+        "type": "Specialist Visit",
+        "amount": "$220",
+        "status": "Processed",
+        "diagnosis": "Cardiology consult"
+      },
+      {
+        "id": "C003",
+        "date": "2024-03-10",
+        "provider": "LabCorp",
+        "type": "Lab Test",
+        "amount": "$80",
+        "status": "Pending",
+        "diagnosis": "Blood panel"
+      }
+    ],
+    "emr": [
+      {
+        "id": "E001",
+        "date": "2024-05-15",
+        "provider": "Dr. A**** S****",
+        "summary": "Annual wellness visit. Vitals normal.",
+        "allergies": ["Penicillin"],
+        "conditions": ["Hypertension"],
+        "notes": "Recommended regular exercise."
+      },
+      {
+        "id": "E002",
+        "date": "2024-04-28",
+        "provider": "Dr. B**** L**",
+        "summary": "Cardiology consult. EKG normal.",
+        "allergies": [],
+        "conditions": ["Hypertension"],
+        "notes": "Continue current medication."
+      }
+    ],
+    "pharmacy": [
+      {
+        "id": "P001",
+        "date": "2024-06-01",
+        "medication": "Atorvastatin",
+        "dosage": "20mg",
+        "frequency": "Once daily",
+        "status": "Active",
+        "refillDue": "2024-06-15",
+        "pharmacy": "Springfield Pharmacy"
+      },
+      {
+        "id": "P002",
+        "date": "2024-05-20",
+        "medication": "Lisinopril",
+        "dosage": "10mg",
+        "frequency": "Once daily",
+        "status": "Active",
+        "refillDue": "2024-06-20",
+        "pharmacy": "Springfield Pharmacy"
+      }
+    ]
+  },
+  {
+    "memberId": "M002",
+    "demographics": {
+      "name": "J*** S****",
+      "email": "j*****@example.com",
+      "phone": "***-***-6543",
+      "ssn": "***-**-4321",
+      "address": "*****, Shelbyville, IL",
+      "dob": "****/**/1965",
+      "plan": "Plan B",
+      "status": "Active"
+    },
+    "claims": [
+      {
+        "id": "C004",
+        "date": "2024-05-10",
+        "provider": "Dr. A**** S****",
+        "type": "Office Visit",
+        "amount": "$110",
+        "status": "Processed",
+        "diagnosis": "Routine checkup"
+      },
+      {
+        "id": "C005",
+        "date": "2024-04-18",
+        "provider": "Dr. P**** P****",
+        "type": "Specialist Visit",
+        "amount": "$210",
+        "status": "Processed",
+        "diagnosis": "Dermatology consult"
+      }
+    ],
+    "emr": [
+      {
+        "id": "E003",
+        "date": "2024-05-10",
+        "provider": "Dr. A**** S****",
+        "summary": "Annual wellness visit. Vitals normal.",
+        "allergies": [],
+        "conditions": ["Diabetes"],
+        "notes": "Monitor blood sugar regularly."
+      },
+      {
+        "id": "E004",
+        "date": "2024-04-18",
+        "provider": "Dr. P**** P****",
+        "summary": "Dermatology consult. Skin clear.",
+        "allergies": ["Latex"],
+        "conditions": [],
+        "notes": "No follow-up needed."
+      }
+    ],
+    "pharmacy": [
+      {
+        "id": "P003",
+        "date": "2024-06-02",
+        "medication": "Metformin",
+        "dosage": "500mg",
+        "frequency": "Twice daily",
+        "status": "Active",
+        "refillDue": "2024-06-25",
+        "pharmacy": "Shelbyville Pharmacy"
+      }
+    ]
+  },
+  {
+    "memberId": "M003",
+    "demographics": {
+      "name": "R***** L**",
+      "email": "r***@example.com",
+      "phone": "***-***-1212",
+      "ssn": "***-**-5555",
+      "address": "*****, Capital City, IL",
+      "dob": "****/**/1958",
+      "plan": "Plan C",
+      "status": "Inactive"
+    },
+    "claims": [
+      {
+        "id": "C006",
+        "date": "2024-05-05",
+        "provider": "Dr. A**** S****",
+        "type": "Office Visit",
+        "amount": "$130",
+        "status": "Processed",
+        "diagnosis": "Blood pressure check"
+      }
+    ],
+    "emr": [
+      {
+        "id": "E005",
+        "date": "2024-05-05",
+        "provider": "Dr. A**** S****",
+        "summary": "Blood pressure elevated. Follow-up recommended.",
+        "allergies": [],
+        "conditions": ["Hypertension"],
+        "notes": "Schedule follow-up in 2 weeks."
+      }
+    ],
+    "pharmacy": [
+      {
+        "id": "P004",
+        "date": "2024-05-06",
+        "medication": "Amlodipine",
+        "dosage": "5mg",
+        "frequency": "Once daily",
+        "status": "Inactive",
+        "refillDue": "2024-05-10",
+        "pharmacy": "Capital City Pharmacy"
+      }
+    ]
+  }
+]

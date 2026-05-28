@@ -1,0 +1,47 @@
+[
+  {
+    "memberId": "M001",
+    "name": "J*** D***",
+    "visits": 4,
+    "messages": 2,
+    "reports": 3,
+    "tasks": 2,
+    "logins": 7
+  },
+  {
+    "memberId": "M002",
+    "name": "J*** S****",
+    "visits": 5,
+    "messages": 3,
+    "reports": 2,
+    "tasks": 1,
+    "logins": 8
+  },
+  {
+    "memberId": "M003",
+    "name": "R***** L**",
+    "visits": 2,
+    "messages": 1,
+    "reports": 1,
+    "tasks": 1,
+    "logins": 4
+  },
+  {
+    "memberId": "M004",
+    "name": "Y**",
+    "visits": 3,
+    "messages": 1,
+    "reports": 0,
+    "tasks": 1,
+    "logins": 5
+  },
+  {
+    "memberId": "M005",
+    "name": "P**** P****",
+    "visits": 1,
+    "messages": 0,
+    "reports": 1,
+    "tasks": 0,
+    "logins": 2
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "action": "Report Submitted",
+    "user": "J*** S****",
+    "role": "member",
+    "date": "2024-06-03",
+    "details": "Annual wellness report submitted.",
+    "status": "Success"
+  },
+  {
+    "id": 2,
+    "action": "Compliance Check",
+    "user": "System",
+    "role": "admin",
+    "date": "2024-06-03",
+    "details": "HIPAA privacy check completed.",
+    "status": "Compliant"
+  },
+  {
+    "id": 3,
+    "action": "Report Submission",
+    "user": "J*** D***",
+    "role": "member",
+    "date": "2024-06-02",
+    "details": "CMS Q2 report submitted.",
+    "status": "Pending"
+  },
+  {
+    "id": 4,
+    "action": "Care Team Assignment",
+    "user": "R***** L**",
+    "role": "member",
+    "date": "2024-06-01",
+    "details": "Assigned Dr. A**** S**** to care team.",
+    "status": "Success"
+  },
+  {
+    "id": 5,
+    "action": "Data Validation",
+    "user": "System",
+    "role": "admin",
+    "date": "2024-05-30",
+    "details": "Member records validated.",
+    "status": "Compliant"
+  },
+  {
+    "id": 6,
+    "action": "Audit Log Export",
+    "user": "P**** P****",
+    "role": "provider",
+    "date": "2024-05-29",
+    "details": "Exported audit log for review.",
+    "status": "Success"
+  },
+  {
+    "id": 7,
+    "action": "Prescription Refill",
+    "user": "J*** S****",
+    "role": "member",
+    "date": "2024-05-28",
+    "details": "Requested refill for Atorvastatin.",
+    "status": "Success"
+  },
+  {
+    "id": 8,
+    "action": "Compliance Check",
+    "user": "System",
+    "role": "admin",
+    "date": "2024-05-27",
+    "details": "CMS submission check pending.",
+    "status": "Pending"
+  },
+  {
+    "id": 9,
+    "action": "Login",
+    "user": "Y**",
+    "role": "member",
+    "date": "2024-06-04",
+    "details": "User logged in.",
+    "status": "Success"
+  }
+]

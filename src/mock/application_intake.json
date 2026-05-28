@@ -1,0 +1,90 @@
+[
+  {
+    "id": "A001",
+    "name": "J*** D***",
+    "email": "j*****@example.com",
+    "phone": "***-***-4567",
+    "channel": "portal",
+    "plan": "Plan A",
+    "notes": "Applied online for comprehensive coverage.",
+    "date": "2024-06-01",
+    "status": "Submitted"
+  },
+  {
+    "id": "A002",
+    "name": "J*** S****",
+    "email": "j*****@example.com",
+    "phone": "***-***-6543",
+    "channel": "paper",
+    "plan": "Plan B",
+    "notes": "Mailed paper application for basic coverage.",
+    "date": "2024-06-02",
+    "status": "Pending"
+  },
+  {
+    "id": "A003",
+    "name": "R***** L**",
+    "email": "r***@example.com",
+    "phone": "***-***-1212",
+    "channel": "broker",
+    "plan": "Plan C",
+    "notes": "Broker assisted with application.",
+    "date": "2024-06-03",
+    "status": "Submitted"
+  },
+  {
+    "id": "A004",
+    "name": "Y**",
+    "email": "y***@example.com",
+    "phone": "***-***-8888",
+    "channel": "provider",
+    "plan": "Plan A",
+    "notes": "Provider submitted application on behalf.",
+    "date": "2024-06-04",
+    "status": "Submitted"
+  },
+  {
+    "id": "A005",
+    "name": "P**** P****",
+    "email": "p*****@example.com",
+    "phone": "***-***-6666",
+    "channel": "portal",
+    "plan": "Plan B",
+    "notes": "Applied online for basic coverage.",
+    "date": "2024-06-05",
+    "status": "Submitted"
+  },
+  {
+    "id": "A006",
+    "name": "J*** D***",
+    "email": "j*****@example.com",
+    "phone": "***-***-4567",
+    "channel": "broker",
+    "plan": "Plan C",
+    "notes": "Broker assisted with application for enhanced benefits.",
+    "date": "2024-06-06",
+    "status": "Pending"
+  },
+  {
+    "id": "A007",
+    "name": "R***** L**",
+    "email": "r***@example.com",
+    "phone": "***-***-1212",
+    "channel": "paper",
+    "plan": "Plan A",
+    "notes": "Mailed paper application for comprehensive coverage.",
+    "date": "2024-06-07",
+    "status": "Submitted"
+  },
+  {
+    "id": "A008",
+    "name": "J*** S****",
+    "email": "j*****@example.com",
+    "phone": "***-***-6543",
+    "channel": "provider",
+    "plan": "Plan C",
+    "notes": "Provider submitted application for enhanced benefits.",
+    "date": "2024-06-08",
+    "status": "Submitted"
+  }
+]

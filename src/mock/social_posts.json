@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "author": "J*** S****",
+    "content": "Excited to join the Wellness Group! Anyone else?",
+    "date": "2024-06-01",
+    "group": "Wellness Group",
+    "comments": [
+      {
+        "id": 1,
+        "author": "J*** D***",
+        "content": "Welcome, Jane!",
+        "date": "2024-06-01"
+      },
+      {
+        "id": 2,
+        "author": "R***** L**",
+        "content": "Glad to have you!",
+        "date": "2024-06-02"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "author": "J*** D***",
+    "content": "Does anyone have tips for managing blood pressure?",
+    "date": "2024-06-03",
+    "group": "Health Tips",
+    "comments": [
+      {
+        "id": 3,
+        "author": "J*** S****",
+        "content": "Try regular walks!",
+        "date": "2024-06-03"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "author": "R***** L**",
+    "content": "Looking for recommendations for a good pharmacy.",
+    "date": "2024-06-04",
+    "group": "Prescription Support",
+    "comments": [
+      {
+        "id": 4,
+        "author": "J*** D***",
+        "content": "Springfield Pharmacy is great.",
+        "date": "2024-06-04"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "author": "J*** S****",
+    "content": "Anyone interested in forming a walking group?",
+    "date": "2024-06-05",
+    "group": "Wellness Group",
+    "comments": []
+  },
+  {
+    "id": 5,
+    "author": "R***** L**",
+    "content": "How do I refill my prescription online?",
+    "date": "2024-06-06",
+    "group": "Prescription Support",
+    "comments": [
+      {
+        "id": 5,
+        "author": "J*** S****",
+        "content": "Check your member portal for refills.",
+        "date": "2024-06-06"
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "B001",
+    "name": "Dental",
+    "description": "Routine cleanings, exams, and basic dental care."
+  },
+  {
+    "id": "B002",
+    "name": "Vision",
+    "description": "Annual eye exams, glasses/contacts allowance."
+  },
+  {
+    "id": "B003",
+    "name": "Prescription Drugs",
+    "description": "Coverage for generic and brand medications."
+  },
+  {
+    "id": "B004",
+    "name": "Hearing",
+    "description": "Hearing exams and hearing aid allowance."
+  },
+  {
+    "id": "B005",
+    "name": "Fitness",
+    "description": "Gym membership and fitness class reimbursement."
+  },
+  {
+    "id": "B006",
+    "name": "Transportation",
+    "description": "Rides to medical appointments."
+  },
+  {
+    "id": "B007",
+    "name": "Over-the-Counter",
+    "description": "Allowance for OTC health products."
+  },
+  {
+    "id": "B008",
+    "name": "Telehealth",
+    "description": "Virtual doctor visits and consultations."
+  }
+]

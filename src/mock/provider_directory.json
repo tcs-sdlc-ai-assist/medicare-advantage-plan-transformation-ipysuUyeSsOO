@@ -1,0 +1,50 @@
+[
+  {
+    "id": "P001",
+    "name": "Dr. A**** S****",
+    "specialty": "Primary Care",
+    "phone": "***-***-2222",
+    "address": "*****, Springfield, IL",
+    "network": "Medicare Advantage"
+  },
+  {
+    "id": "P002",
+    "name": "Dr. B**** L**",
+    "specialty": "Cardiology",
+    "phone": "***-***-4444",
+    "address": "*****, Shelbyville, IL",
+    "network": "Medicare Advantage"
+  },
+  {
+    "id": "P003",
+    "name": "Dr. P**** P****",
+    "specialty": "Dermatology",
+    "phone": "***-***-6666",
+    "address": "*****, Capital City, IL",
+    "network": "Medicare Advantage"
+  },
+  {
+    "id": "P004",
+    "name": "Dr. M**** G****",
+    "specialty": "Endocrinology",
+    "phone": "***-***-8888",
+    "address": "*****, Springfield, IL",
+    "network": "Medicare Advantage"
+  },
+  {
+    "id": "P005",
+    "name": "Dr. S**** K****",
+    "specialty": "Orthopedics",
+    "phone": "***-***-5555",
+    "address": "*****, Shelbyville, IL",
+    "network": "Medicare Advantage"
+  },
+  {
+    "id": "P006",
+    "name": "Dr. L**** T****",
+    "specialty": "Neurology",
+    "phone": "***-***-3333",
+    "address": "*****, Capital City, IL",
+    "network": "Medicare Advantage"
+  }
+]

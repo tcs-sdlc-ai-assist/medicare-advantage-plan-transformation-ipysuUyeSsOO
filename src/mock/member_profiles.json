@@ -1,0 +1,35 @@
+[
+  {
+    "id": "M001",
+    "name": "J*** D***",
+    "email": "j*****@example.com",
+    "phone": "***-***-4567",
+    "ssn": "***-**-6789",
+    "address": "*****, Springfield, IL",
+    "dob": "****/**/1970",
+    "plan": "Plan A",
+    "status": "Active"
+  },
+  {
+    "id": "M002",
+    "name": "J*** S****",
+    "email": "j*****@example.com",
+    "phone": "***-***-6543",
+    "ssn": "***-**-4321",
+    "address": "*****, Shelbyville, IL",
+    "dob": "****/**/1965",
+    "plan": "Plan B",
+    "status": "Active"
+  },
+  {
+    "id": "M003",
+    "name": "R***** L**",
+    "email": "r***@example.com",
+    "phone": "***-***-1212",
+    "ssn": "***-**-5555",
+    "address": "*****, Capital City, IL",
+    "dob": "****/**/1958",
+    "plan": "Plan C",
+    "status": "Inactive"
+  }
+]

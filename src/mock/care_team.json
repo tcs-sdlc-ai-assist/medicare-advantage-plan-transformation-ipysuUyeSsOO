@@ -1,0 +1,42 @@
+[
+  {
+    "memberId": "M001",
+    "careTeam": [
+      {
+        "role": "Primary Care",
+        "provider": "Dr. A**** S****",
+        "contact": "***-***-2222"
+      },
+      {
+        "role": "Cardiology",
+        "provider": "Dr. B**** L**",
+        "contact": "***-***-4444"
+      }
+    ]
+  },
+  {
+    "memberId": "M002",
+    "careTeam": [
+      {
+        "role": "Primary Care",
+        "provider": "Dr. A**** S****",
+        "contact": "***-***-2222"
+      },
+      {
+        "role": "Dermatology",
+        "provider": "Dr. P**** P****",
+        "contact": "***-***-6666"
+      }
+    ]
+  },
+  {
+    "memberId": "M003",
+    "careTeam": [
+      {
+        "role": "Primary Care",
+        "provider": "Dr. A**** S****",
+        "contact": "***-***-2222"
+      }
+    ]
+  }
+]
